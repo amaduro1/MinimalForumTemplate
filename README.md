@@ -1,4 +1,5 @@
-<h1> Simple / Minimal Forum  Made with ASP.NET core &amp; MVC 5  </h1>
+<h1> Simple / Minimal Forum  </h1>
+<h3> Made with ASP.NET core &amp; MVC 5  </h3>
 
 <br>
 Some of the basic functionalities that the project includes:    
