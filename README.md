@@ -1,4 +1,3 @@
-# MinimalForumTemplate
 <h1> Simple / Minimal Forum  Made with ASP.NET core &amp; MVC 5  </h1>
 
 <br>
